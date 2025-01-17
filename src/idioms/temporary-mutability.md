@@ -2,7 +2,7 @@
 
 ## Description
 
-Often it is necessary to prepare and process some data, but after that data are
+Often it is necessary to prepare and process some data, but after that the data is
 only inspected and never modified. The intention can be made explicit by
 redefining the mutable variable as immutable.
 
